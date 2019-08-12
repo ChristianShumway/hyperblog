@@ -11,3 +11,12 @@ body{
   padding: 1rem;
   margin: 0 auto;
 }
+
+.wrap-cabecera {
+  background: blanchedalmond;
+  padding: 1px 10px;
+}
+
+.wrap-cabecera h2{
+  color: indianred;
+}
