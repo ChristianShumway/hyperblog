@@ -20,3 +20,11 @@ body{
 .wrap-cabecera h2{
   color: indianred;
 }
+
+.footer{
+  margin-top: 30px;
+  background: goldenrod;
+  color: white;
+  padding: 10px;
+  text-align: center;
+}
