@@ -13,10 +13,17 @@ body{
 }
 
 .wrap-cabecera {
-  background: blanchedalmond;
+  background: darkslateblue;
   padding: 1px 10px;
+  display: flex;
+  align-items: center;
+}
+
+.wrap-cabecera img{
+  width: 50px;
+  margin-right: 20px;
 }
 
 .wrap-cabecera h2{
-  color: indianred;
+  color: white;
 }
