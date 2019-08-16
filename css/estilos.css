@@ -28,6 +28,14 @@ body{
   color: white;
 }
 
+.data-autor{
+  display: block;
+  text-align: right;
+  margin-right: 20px;
+  font-size: .8rem;
+  font-style: oblique;
+}
+
 .footer{
   margin-top: 30px;
   background: goldenrod;
